@@ -1,5 +1,38 @@
 {
     "link": "https://atlas.gamepedia.com/Atlas_Wiki",
+    "help": {
+        "title": "Atlas Wiki Help",
+        "description": "How to use Atlas Wiki!",
+        "url": "https://discordapp.com",
+        "color": 14913539,
+        "footer": {
+            "icon_url": "https://i.imgur.com/VChriNf.png",
+            "text": "Atlas Wiki Links Data by: Ev1dentFir3"
+        },
+        "thumbnail": {
+            "url": "https://i.imgur.com/2yz11nL.png"
+        },
+        "author": {
+            "name": "Atlas Wiki",
+            "icon_url": "https://i.imgur.com/2yz11nL.png"
+        },
+        "fields": [
+            {
+                "name": "!wiki",
+                "value": "Provides a link to the Atlas Wiki Page"
+            },
+            {
+                "name": "!wiki [Category]",
+                "value": "Checkout some of these categories! \n- crafting\n- farming\n- npc\n- resources\n- map\n`MORE TO COME`",
+                "inline": true
+            },
+            {
+                "name": "!wiki [category] help",
+                "value": "Will display any subcategories that you can search for",
+                "inline": true
+            }
+        ]
+    },
     "crafting": {
         "link": "https://atlas.gamepedia.com/Crafting",
         "weapons": "https://atlas.gamepedia.com/Crafting#Weapons",
