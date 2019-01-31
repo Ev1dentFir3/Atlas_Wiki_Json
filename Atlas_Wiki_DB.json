@@ -23,7 +23,7 @@
             },
             {
                 "name": "!wiki [Category]",
-                "value": "Checkout some of these categories! \n- crafting\n- farming\n- npc\n- resources\n- map\n`MORE TO COME`",
+                "value": "These Categories are availible, more to come soon! \n- crafting\n- farming\n- npc\n- resources\n- map\n-animals",
                 "inline": true
             },
             {
@@ -299,7 +299,13 @@
     },
     "resources": {
         "link": "https://atlas.gamepedia.com/Resources",
-        "help": "https://i.imgur.com/EKc7W0B.png"
+        "plants": "https://atlas.gamepedia.com/Resources#Plants",
+        "stone": "https://atlas.gamepedia.com/Resources#Stone_and_Ore",
+        "ore": "https://atlas.gamepedia.com/Resources#Stone_and_Ore",
+        "animals": "https://atlas.gamepedia.com/Resources#Animals",
+        "vitamins": "https://atlas.gamepedia.com/Resources#Vitamins",
+        "other": "https://atlas.gamepedia.com/Resources#Others",
+        "help": "plants | stone | ore | animals | vitamins | other"
     },
     "animals": {
         "chicken": {
@@ -309,7 +315,7 @@
             "color": 3774054,
             "footer": {
                 "icon_url": "https://i.imgur.com/VChriNf.png",
-                "text": "Atlas Wiki by Gamepedia"
+                "text": "Atlas Wiki Data by Gamepedia"
             },
             "thumbnail": {
                 "url": "https://i.imgur.com/2yz11nL.png"
@@ -351,6 +357,102 @@
                 {
                     "name": "Notes",
                     "value": "Found on almost all islands.\nThey are usually found wandering around the beaches of an island.",
+                    "inline": true
+                }
+            ]
+        },
+        "monkey": {
+            "title": "Monkey",
+            "description": "Monkeys are one of the curious Mammals in ATLAS.",
+            "url": "https://atlas.gamepedia.com/Chicken",
+            "color": 3774054,
+            "footer": {
+                "icon_url": "https://i.imgur.com/VChriNf.png",
+                "text": "Atlas Wiki Data by Gamepedia"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/2yz11nL.png"
+            },
+            "image": {
+                "url": "https://i.imgur.com/piRf24w.png"
+            },
+            "author": {
+                "name": "Atlas Wiki",
+                "url": "https://atlas.gamepedia.com/",
+                "icon_url": "https://i.imgur.com/VChriNf.png"
+            },
+            "fields": [
+                {
+                    "name": "Behavior",
+                    "value": "Monkeys are passive wandering animals that rarely attack unprovoked. If provoked, they will attack by throwing poo at their target. This causes damage and slows the target.",
+                    "inline": true
+                },
+                {
+                    "name": "Appearance",
+                    "value": "Small arboreal furry mammals that have a long prehensile tail. The are predominately quadrupeds but can walk on their hind legs for short periods.",
+                    "inline": true
+                },
+                {
+                    "name": "Drops",
+                    "value": " Animal Meat | Pelt",
+                    "inline": true
+                },
+                {
+                    "name": "Taming",
+                    "value": "Monkeys are passively tamable with berries. Put the berries in the last item slot and you will get the option to feed by pressing `E` when you sneak close enough to the animal. You will have to wait a few seconds until it is hungry again to feed it. Continue this process as the monkey walks around, making sure to follow behind without startling it. Occasionally during this process, the monkey will stop for a moment and change directions to walk down a new path. When this happens, make sure to rotate accordingly to avoid scaring it away. If you damage the monkey at all, the taming process will be disrupted and the animal will no longer accept food from you.",
+                    "inline": true
+                },
+                {
+                    "name": "Buff",
+                    "value": "Chickens can be used as a steady source of eggs, which provide Vitamin A (Yellow)",
+                    "inline": true
+                }
+            ]
+        },
+        "parrot": {
+            "title": "Parrot",
+            "description": "Parrots are one of the oblivious Birds in ATLAS.",
+            "url": "https://atlas.gamepedia.com/Parrot",
+            "color": 3774054,
+            "footer": {
+                "icon_url": "https://i.imgur.com/VChriNf.png",
+                "text": "Atlas Wiki Data by Gamepedia"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/2yz11nL.png"
+            },
+            "image": {
+                "url": "https://c-4tvylwolbz88x24nhtlwlkphx2ejbyzljkux2ejvt.g00.gamepedia.com/g00/3_c-4hashz.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fnhtlwlkph.jbyzljku.jvtx2fhashz_nhtlwlkph_lux2faobtix2f8x2f84x2fJopjrlu_Pthnl.qwnx2f148we-Jopjrlu_Pthnl.qwnx3fclyzpvux3d5il434850mm5m4ji3l6214l1hh185i0ix26p87j.thyrx3dpthnl_$/$/$/$/$/$/$"
+            },
+            "author": {
+                "name": "Atlas Wiki",
+                "url": "https://atlas.gamepedia.com/",
+                "icon_url": "https://i.imgur.com/VChriNf.png"
+            },
+            "fields": [
+                {
+                    "name": "Behavior",
+                    "value": "Monkeys are passive wandering animals that rarely attack unprovoked. If provoked, they will attack by throwing poo at their target. This causes damage and slows the target.",
+                    "inline": true
+                },
+                {
+                    "name": "Appearance",
+                    "value": "Small arboreal furry mammals that have a long prehensile tail. The are predominately quadrupeds but can walk on their hind legs for short periods.",
+                    "inline": true
+                },
+                {
+                    "name": "Drops",
+                    "value": " Animal Meat | Pelt",
+                    "inline": true
+                },
+                {
+                    "name": "Taming",
+                    "value": "Monkeys are passively tamable with berries. Put the berries in the last item slot and you will get the option to feed by pressing `E` when you sneak close enough to the animal. You will have to wait a few seconds until it is hungry again to feed it. Continue this process as the monkey walks around, making sure to follow behind without startling it. Occasionally during this process, the monkey will stop for a moment and change directions to walk down a new path. When this happens, make sure to rotate accordingly to avoid scaring it away. If you damage the monkey at all, the taming process will be disrupted and the animal will no longer accept food from you.",
+                    "inline": true
+                },
+                {
+                    "name": "Buff",
+                    "value": "Gives insulation when shoulder mounted. he get 0.2 fortitude by level, not linked with a stat.",
                     "inline": true
                 }
             ]
