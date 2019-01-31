@@ -394,7 +394,7 @@
                 },
                 {
                     "name": "Drops",
-                    "value": " Animal Meat | Pelt",
+                    "value": "Animal Meat | Pelt",
                     "inline": true
                 },
                 {
@@ -404,7 +404,7 @@
                 },
                 {
                     "name": "Buff",
-                    "value": "Chickens can be used as a steady source of eggs, which provide Vitamin A (Yellow)",
+                    "value": "Having a tamed monkey on your shoulder gives a passive bonus to health regeneration.",
                     "inline": true
                 }
             ]
