@@ -300,5 +300,60 @@
     "resources": {
         "link": "https://atlas.gamepedia.com/Resources",
         "help": "https://i.imgur.com/EKc7W0B.png"
+    },
+    "animals": {
+        "chicken": {
+            "title": "Chicken",
+            "description": "Chickens are one of the oblivious Birds in ATLAS.",
+            "url": "https://atlas.gamepedia.com/Chicken",
+            "color": 3774054,
+            "footer": {
+                "icon_url": "https://i.imgur.com/VChriNf.png",
+                "text": "Atlas Wiki by Gamepedia"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/2yz11nL.png"
+            },
+            "image": {
+                "url": "https://c-4tvylwolbz88x24nhtlwlkphx2ejbyzljkux2ejvt.g00.gamepedia.com/g00/3_c-4hashz.nhtlwlkph.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fnhtlwlkph.jbyzljku.jvtx2fhashz_nhtlwlkph_lux2faobtix2f8x2f84x2fJopjrlu_Pthnl.qwnx2f148we-Jopjrlu_Pthnl.qwnx3fclyzpvux3d5il434850mm5m4ji3l6214l1hh185i0ix26p87j.thyrx3dpthnl_$/$/$/$/$/$/$"
+            },
+            "author": {
+                "name": "Atlas Wiki",
+                "url": "https://atlas.gamepedia.com/",
+                "icon_url": "https://i.imgur.com/VChriNf.png"
+            },
+            "fields": [
+                {
+                    "name": "Behavior",
+                    "value": "Chickens are non-aggressive, and will run away if attacked.",
+                    "inline": true
+                },
+                {
+                    "name": "Appearance",
+                    "value": "A small flightless bird, usually brown. Males will have a larger red crest on their heads, while females have a smaller crest.",
+                    "inline": true
+                },
+                {
+                    "name": "Drops",
+                    "value": " Animal Meat | Chicken Egg (while alive)",
+                    "inline": true
+                },
+                {
+                    "name": "Taming",
+                    "value": "Chickens are a passive tame requiring berries as food. No bolas are required.",
+                    "inline": true
+                },
+                {
+                    "name": "Utility",
+                    "value": "Chickens can be used as a steady source of eggs, which provide Vitamin A (Yellow)",
+                    "inline": true
+                },
+                {
+                    "name": "Notes",
+                    "value": "Found on almost all islands.\nThey are usually found wandering around the beaches of an island.",
+                    "inline": true
+                }
+            ]
+        }
     }
 }
